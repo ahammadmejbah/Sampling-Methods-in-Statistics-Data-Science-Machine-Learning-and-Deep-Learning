@@ -498,7 +498,7 @@ Purposive sampling is particularly useful in qualitative research when:
 Purposive sampling provides a pragmatic method for obtaining comprehensive, intricate, and pertinent data that is directly linked to the study goals. Nevertheless, it is important to interpret the acquired knowledge in light of the specific group of individuals studied, taking into account the possibility of prejudice and the difficulties in applying the results to a broader population.
 
   
-### Snowball Sampling
+### 9. Snowball Sampling
 
 Snowball sampling, also known as chain-referral sampling, is a non-probability sampling technique used in research when potential respondents are hard to locate or reach. It relies on initial subjects to identify additional subjects among their acquaintances, thus, the sample size grows like a snowball. This method is particularly useful for studying hidden populations or communities that are difficult for researchers to access directly.
 
@@ -540,7 +540,7 @@ Snowball sampling, also known as chain-referral sampling, is a non-probability s
 
 Snowball sampling is a valuable approach used in qualitative research and exploratory investigations when other sampling techniques are not feasible. Nevertheless, researchers must meticulously consider the constraints and ethical ramifications associated with their study design and result interpretation.  
   
-### Quota Sampling
+### 10. Quota Sampling
 
 Quota sampling is a non-probability sampling technique where the researcher divides the population into exclusive subgroups, then determines a quota for each subgroup to ensure the sample reflects certain characteristics of the population. The selection of participants within each subgroup is non-random, based on convenience or judgment.
 
@@ -577,7 +577,7 @@ Quota sampling is a non-probability sampling technique where the researcher divi
 Quota sampling is especially advantageous in exploratory research in situations where there are constraints on time and resources. Nevertheless, the absence of randomization in quota sampling research necessitates careful interpretation of the results, especially when considering their applicability to the whole population.  
   
   
-### Adaptive Sampling
+### 11. Adaptive Sampling
 
 Adaptive sampling is a sampling strategy where the method for selecting samples can change during the course of the data collection based on the information gathered from earlier samples. This approach is particularly useful in populations with high variability or when the population is not well understood beforehand. It allows researchers to 'adapt' their sampling strategy to focus on areas of interest or higher variability as they learn more about the population's characteristics.
 
@@ -617,7 +617,7 @@ Adaptive sampling is a sampling strategy where the method for selecting samples 
 Adaptive sampling is a method of study that enables targeted and efficient data collecting in populations that are complicated or not well known. Nonetheless, the efficacy of the approach relies on meticulous strategizing, implementation, and evaluation, while being cognizant of the likelihood of prejudice and intricacy.  
 
   
-### Multistage Sampling
+### 12. Multistage Sampling
 
 Multistage sampling is a complex form of cluster sampling. It involves the selection of samples in multiple stages, allowing for a more manageable and cost-effective approach to sampling large and geographically dispersed populations. It's particularly useful when a complete list of the population members is not available, but lists exist for larger groups or clusters.
 
@@ -655,7 +655,7 @@ Multistage sampling represents a versatile and efficient approach for studying l
 
   
   
-### Random Sampling vs Non-Random Sampling
+### 13. Random Sampling vs Non-Random Sampling
 
 #### 13.1 Key Differences
 
@@ -699,7 +699,634 @@ Combining random and non-random sampling methods can leverage the strengths of e
 - **Population Structure:** Understanding the structure and distribution of the population can guide the choice between or combination of sampling methods.
 - **Resource Availability:** Budget and time constraints often dictate the feasibility of certain sampling methods over others.
 
-By thoughtfully combining sampling methods, researchers can balance the need for representativeness, depth of insight, and practical constraints, enhancing the overall quality and relevance of their findings.  
+By thoughtfully combining sampling methods, researchers can balance the need for representativeness, depth of insight, and practical constraints, enhancing the overall quality and relevance of their findings. 
+  
+  
+### 14. Sampling in Experimental Design
+
+Experimental design is a critical component of research that aims to establish cause-and-effect relationships. The choice of sampling method significantly influences the validity and reliability of the study's findings.
+
+#### 14.1 Randomized Controlled Trials (RCTs)
+
+- **Definition:** RCTs are considered the gold standard in experimental design. Participants are randomly assigned to either the treatment group receiving the intervention or the control group receiving a placebo or standard treatment. This random assignment helps ensure that the groups are comparable at the start of the experiment.
+  
+- **Sampling in RCTs:** 
+  - **Random Sampling:** Ideally, participants are selected through a random sampling method from the target population to ensure the study results are generalizable.
+  - **Random Assignment:** Crucial for minimizing selection bias and confounding variables, enhancing the internal validity of the experiment.
+
+#### 14.2 Quasi-Experimental Designs
+
+- **Definition:** Quasi-experimental designs do not use random assignment. Instead, groups are formed based on existing differences or by the researcher's intervention without randomization, such as assigning schools to different educational interventions based on location.
+  
+- **Sampling in Quasi-Experiments:** 
+  - **Non-Random Sampling:** Often involves convenience or purposive sampling, as the groups may be pre-determined by non-random criteria.
+  - **Implications:** The lack of random assignment can introduce selection bias, making it harder to infer causality confidently.
+
+#### 14.3 Cross-Sectional Studies
+
+- **Definition:** Cross-sectional studies observe a specific outcome or variable of interest in a sample from the target population at one particular point in time. These studies are descriptive and can identify associations but not causal relationships.
+  
+- **Sampling in Cross-Sectional Studies:** 
+  - **Variety of Sampling Methods:** Can use random sampling for generalizability or non-random sampling for specific subgroups or practical considerations.
+  - **Snapshot Approach:** Since these studies do not track changes over time, the sampling method should ensure a representative snapshot of the population at the time of the study.
+
+#### 14.4 Longitudinal Studies
+
+- **Definition:** Longitudinal studies follow the same subjects over a period, observing changes or outcomes. This design can be observational or involve interventions.
+  
+- **Sampling in Longitudinal Studies:** 
+  - **Cohort Sampling:** Subjects (a cohort) are often selected through random sampling to be representative of the population. 
+  - **Panel Sampling:** In some cases, a panel of participants is selected to represent various subgroups within the population.
+  - **Attrition Considerations:** Longitudinal studies must account for attrition by ensuring the initial sample is large enough to maintain statistical power over time or by employing strategies to minimize dropout rates.
+
+### 15. Sampling Considerations Across Designs
+
+#### 15.1 Designing Survey Sampling Plans
+
+Designing an effective survey sampling plan involves several key steps to ensure that the collected data accurately represents the target population and meets the research objectives.
+
+- **Define the Target Population:** Clearly identify who you want to study. This could range from a specific demographic group to the entire population of a country.
+- **Choose a Sampling Frame:** The sampling frame is a list from which potential survey respondents are selected. It should closely match the target population to minimize coverage error.
+- **Select a Sampling Method:** Decide between probability (e.g., simple random, stratified, cluster) and non-probability sampling methods (e.g., convenience, quota). The choice depends on the research goals, budget, and time constraints.
+- **Determine Sample Size:** Calculate the sample size needed to achieve the desired level of precision and confidence in the results. This involves statistical formulas that account for the expected variability in the data and the design effect of the chosen sampling method.
+- **Implement Sampling Plan:** Execute the sampling process according to the chosen method, ensuring that the selection is unbiased and that the respondents accurately represent the target population.
+
+#### 15.2 Survey Sampling Errors
+
+Two main types of errors can affect the accuracy of survey results: sampling errors and non-sampling errors.
+
+- **Sampling Error:** Arises from using a sample to estimate characteristics of a larger population. The size of the sampling error typically decreases as the sample size increases. It is quantifiable and can be reduced through careful design and larger sample sizes.
+- **Non-Sampling Error:** Includes all other errors that can occur in the survey process, such as measurement error, nonresponse error, and coverage error. These errors are not directly related to the sample size and must be addressed through careful questionnaire design, effective communication with respondents, and rigorous data collection procedures.
+
+#### 15.3 Online Surveys and Sampling
+
+Online surveys have become increasingly popular due to their cost-effectiveness and rapid deployment. However, sampling for online surveys presents unique challenges.
+
+- **Sampling Frame and Coverage:** For online surveys, the sampling frame often consists of email lists or online panels, which may not fully represent the target population.
+- **Self-Selection Bias:** Self-selection into the survey can lead to bias, as individuals who choose to participate may differ significantly from those who do not.
+- **Strategies for Improvement:** Use mixed-mode approaches to include respondents without internet access, apply post-stratification weighting to adjust for known differences between the sample and the population, and utilize online panels that are carefully constructed to be representative.
+
+#### 15.4 Telephone Surveys and Sampling
+
+Telephone surveys, once a staple of survey research, face challenges from declining response rates and the shift from landlines to mobile phones.
+
+- **Random Digit Dialing (RDD):** Used to create a sample of telephone numbers, both landline and mobile. This method ensures that unlisted numbers have a chance of being included.
+- **Coverage Issues:** The shift to mobile phones has created coverage issues, as individuals using only mobile phones may differ demographically from those with landlines.
+- **Strategies for Improvement:** Incorporate both landline and mobile phone numbers in the sampling frame, use dual-frame sampling designs to cover both types of users, and apply weighting to adjust for differential response rates and coverage errors.
+
+In survey research, the choice of sampling method and design is crucial for obtaining accurate and reliable data. Understanding and minimizing potential errors through careful planning and execution can significantly enhance the quality of survey findings.- **Generalizability vs. Specificity:** The choice between random and non-random sampling methods often balances the desire for generalizable findings and the need to study specific groups or phenomena.
+- **Ethical and Practical Constraints:** Ethical considerations and practical limitations, such as resource constraints, can influence the choice of sampling method.
+- **Data Quality and Reliability:** Regardless of the design, ensuring high-quality and reliable data collection methods is paramount, as this directly affects the study's conclusions and impact.
+
+Sampling strategies play a pivotal role in the design and execution of experimental and observational studies, influencing the scope of conclusions and the applicability of findings to wider populations.  
+  
+  
+  
+### 16. Sampling in Big Data Analytics
+
+#### 16.1 Challenges and Opportunities
+
+- **Challenges:**
+  - **Volume:** The sheer scale of big data can make traditional sampling methods computationally infeasible or inefficient.
+  - **Velocity:** The rapid generation of data requires dynamic and adaptive sampling strategies that can keep pace.
+  - **Variety:** Diverse data types and sources complicate the selection of appropriate sampling methods.
+  - **Veracity:** Ensuring the quality and representativeness of samples from heterogeneous and potentially biased big data sources.
+
+- **Opportunities:**
+  - **Innovative Sampling Methods:** Big data analytics encourages the development of novel sampling techniques that are computationally efficient and effective in diverse scenarios.
+  - **Improved Decision Making:** Proper sampling can help in extracting actionable insights from vast datasets, leading to better business and scientific decisions.
+  - **Enhanced Predictive Analytics:** Sampling in big data can enable more agile and accurate predictive models by focusing on the most informative subsets of data.
+
+#### 16.2 Random Sampling in Big Data
+
+Random sampling remains a cornerstone technique, even in big data contexts, because of its simplicity and theoretical underpinnings. In big data:
+- **Implementation:** Advanced computational tools and parallel processing techniques are utilized to perform random sampling on large datasets.
+- **Application:** Used for initial exploratory analysis and for validating findings from more complex models.
+
+#### 16.3 Stratified Sampling in Big Data
+
+Stratified sampling, where the population is divided into homogeneous subgroups, is particularly useful in big data to ensure that all segments of the population are adequately represented.
+- **Adaptation for Big Data:** Techniques such as proportional allocation or optimal allocation are used to determine the sample size for each stratum, considering the big data context.
+- **Benefits:** Enhances the accuracy of estimates for the whole population and for specific subgroups.
+
+#### 16.4 Cluster Sampling in Big Data
+
+In big data analytics, cluster sampling can significantly reduce computational costs by analyzing selected clusters instead of individual records.
+- **Big Data Adaptation:** Clusters are often defined using algorithmic methods, and sampling may focus on clusters identified as most relevant or informative for the research question.
+- **Application:** Especially useful in geographical data analysis or when data is naturally grouped in some way.
+
+#### 16.5 Case Studies and Examples
+
+- **Social Media Sentiment Analysis:** Stratified sampling to analyze sentiments across different demographics or regions, ensuring that minority groups are represented.
+- **Healthcare Predictive Analytics:** Cluster sampling from electronic health records to identify patterns or risk factors for diseases, focusing on specific patient clusters with common characteristics.
+- **Retail Customer Behavior:** Random sampling within big datasets of customer transactions to identify purchasing trends and preferences, enabling targeted marketing strategies.
+
+### Sampling Considerations in Big Data
+
+- **Representativeness vs. Feasibility:** Balancing the need for representative samples against the computational and practical challenges of working with big data.
+- **Data Quality:** Ensuring that sampling methods do not amplify biases present in big data sources.
+- **Ethical and Privacy Concerns:** Considering the ethical implications and privacy issues associated with sampling and analyzing individuals' data at scale.
+
+Sampling in big data analytics requires a blend of traditional statistical methods and innovative techniques tailored to the unique characteristics of big data. Properly applied, sampling can uncover valuable insights from vast datasets while managing the challenges of volume, velocity, and variety.  
+  
+  
+### 17. Sampling Software and Tools
+
+Sampling methodologies benefit greatly from specialized software and tools that can handle complex designs and large datasets efficiently. Here's an overview of some key resources across different platforms.
+
+#### 17.1 R Packages for Sampling
+
+**R** is a powerful statistical programming language with several packages designed for various sampling techniques:
+
+- **`sampling`**: Offers a wide range of functions for complex survey sampling and estimation. It includes algorithms for simple random sampling, stratified sampling, and cluster sampling, among others.
+  
+- **`survey`**: Specializes in the analysis of complex survey samples, providing tools for stratified, clustered, multi-stage, and unequal probability sampling. It's particularly useful for variance estimation and survey analysis.
+
+- **`boot`**: Focuses on bootstrap methods, allowing for simple random sampling with replacement and is useful for estimating the distribution of a statistic based on small data sets.
+
+To install and use these packages in R, you can use commands like:
+```R
+install.packages("sampling")
+library(sampling)
+
+install.packages("survey")
+library(survey)
+
+install.packages("boot")
+library(boot)
+```
+
+#### 17.2 Python Libraries for Sampling
+
+**Python** offers libraries that are user-friendly and versatile for data analysis, including sampling techniques:
+
+- **`numpy` and `pandas`**: While not exclusively for sampling, these libraries offer functionalities to easily perform simple random sampling and systematic sampling. For example, using `DataFrame.sample()` in pandas or `numpy.random.choice()` for random selections.
+
+- **`scikit-learn`**: A machine learning library that includes methods for randomly splitting datasets into train/test sets, which is essential for model validation and is a form of sampling.
+
+- **`imbalanced-learn`**: Specifically addresses the challenge of imbalanced datasets by providing methods for oversampling and undersampling, which can be considered specialized forms of sampling.
+
+Example of using pandas for sampling:
+```python
+import pandas as pd
+# Assuming df is a pandas DataFrame with your data
+sampled_df = df.sample(n=100)  # For a simple random sample of 100 observations
+```
+
+#### 17.3 Online Sampling Tools
+
+For those who do not wish to delve into programming for their sampling needs, there are online tools and software platforms that offer user-friendly interfaces for designing samples and analyzing survey data. These include:
+
+- **SurveyMonkey**: Provides tools for survey design, sampling, data collection, and analysis, with options to target specific demographic groups for online surveys.
+  
+- **Qualtrics**: Offers robust survey tools with capabilities for complex sampling strategies and is widely used in academic research and market analysis.
+  
+- **Google Surveys**: Allows for rapid collection of market research data by providing an interface to design surveys, target specific audiences, and analyze results.
+
+Each tool and software package has its strengths and is suited to different types of sampling needs, from simple random sampling to more complex survey designs. Whether you prefer a programming approach with R or Python or a more straightforward online tool, there's a wide range of options available to support sampling in research and data analysis.  
+  
+  
+  
+### 18. Typical Traps in the Process of Sampling
+
+
+Sampling is a fundamental aspect of research methodology that, if not properly conducted, can lead to significant biases and errors in research findings. Understanding and mitigating common pitfalls in sampling are crucial for ensuring the reliability and validity of study results.
+
+#### 18.1 Selection Bias
+
+- **Definition:** Selection bias occurs when the process of selecting a sample causes it to be unrepresentative of the population, systematically favoring certain outcomes.
+- **Causes:** Can arise from the non-random selection of participants, such as using convenience sampling without accounting for its limitations or allowing participants to self-select into the study.
+- **Mitigation Strategies:** Use random sampling techniques where feasible, ensure the sampling frame accurately represents the population, and apply weighting adjustments to correct for known biases.
+
+#### 18.2 Non-response Bias
+
+- **Definition:** Non-response bias happens when individuals selected for the sample do not participate or respond, and their non-participation is related to the study's outcome of interest.
+- **Causes:** Common in surveys and studies where participation is voluntary. Higher occurrence when the survey is long, complicated, or sensitive in nature.
+- **Mitigation Strategies:** Improve survey design to be more engaging and less burdensome, offer incentives for participation, conduct follow-ups with non-respondents, and apply statistical adjustments based on the characteristics of respondents vs. non-respondents.
+
+#### 18.3 Sampling Frame Errors
+
+- **Definition:** Sampling frame errors occur when the list or database from which the sample is drawn (the sampling frame) does not accurately reflect the population.
+- **Causes:** Outdated or incomplete lists, missing segments of the population, or incorrect definitions of the population.
+- **Mitigation Strategies:** Regularly update and validate the sampling frame, use multiple sources to compile the frame, and clearly define the population to ensure the frame's coverage is as comprehensive as possible.
+
+#### 18.4 Coverage Errors
+
+- **Definition:** Coverage errors happen when the sampling frame does not include all elements of the target population, leading to an under-representation of some groups.
+- **Causes:** Similar to sampling frame errors, but specifically refers to the absence of segments of the population from the frame.
+- **Mitigation Strategies:** Identify and include all segments of the population in the sampling frame, utilize supplementary frames to cover missing populations, and employ stratified or cluster sampling to ensure all groups are represented.
+
+### Best Practices to Avoid Pitfalls
+
+- **Thorough Planning:** Careful design of the study and sampling methodology can preempt many common sampling errors.
+- **Pilot Testing:** Conduct pilot studies to identify and address potential biases and errors in the sampling process.
+- **Transparency:** Document the sampling process, including the rationale for the chosen method, details of the implementation, and any issues encountered, to allow for critical evaluation of the study's findings.
+- **Statistical Adjustments:** Use statistical techniques to adjust for known biases, such as weighting and imputation for missing data.
+
+
+### 19. Resources and Further Reading
+
+The study of sampling methods is vast and critical for researchers across various disciplines. Here are curated resources for deeper exploration into sampling methodologies and their applications.
+
+#### 19.1 Books on Sampling Methods
+
+- **"Sampling: Design and Analysis" by Sharon L. Lohr:** Provides comprehensive coverage of the design and analysis of complex sample surveys.
+- **"Survey Sampling" by Leslie Kish:** A classic text that introduces basic concepts in survey sampling and more advanced techniques.
+- **"Practical Sampling Techniques" by Ranjan K. Som:** Offers practical advice and techniques for researchers conducting surveys in various fields.
+
+#### 19.2 Academic Papers and Journals
+
+- **Journal of Survey Statistics and Methodology:** Features innovative research on survey methodology and statistics.
+- **Survey Methodology:** Published by Statistics Canada, this journal covers a wide range of topics related to survey science and practice.
+- **"Improving Survey Methods: Lessons from Recent Research" edited by Uwe Engel, Ben Jann, Peter Lynn, Annette Scherpenzeel, and Patrick Sturgis:** A collection of papers offering insights into improving survey design and sampling methods.
+
+#### 19.3 Online Courses and Tutorials
+
+- **Coursera – "Survey Data Collection and Analytics:"** Offers a comprehensive look at survey data collection methods, including sampling, and is taught by experts in the field.
+- **edX – "Data Science: Inference and Modeling" by Harvard University:** Covers foundational concepts in statistical thinking and inference, including sampling techniques.
+- **Khan Academy – "Statistics and Probability:"** Provides free tutorials on basic and advanced statistical concepts, including sampling distributions and survey methodologies.
+
+#### 19.4 References and Citations
+
+For academic writing and research, accurately citing resources is crucial. The following style guides offer guidance on citing books, papers, and online resources:
+- **APA (American Psychological Association) Style Guide:** Widely used in social sciences for citing sources.
+- **MLA (Modern Language Association) Style Guide:** Commonly used in humanities for referencing sources.
+- **Chicago Manual of Style:** Offers two systems for references and is used across many disciplines.
+
+#### 19.5 Community Forums and Discussions
+
+- **Stack Exchange – Cross Validated:** A question-and-answer site for statisticians, data miners, and anyone interested in data science where sampling methodologies are frequently discussed.
+- **ResearchGate:** A social networking site for scientists and researchers to share papers, ask and answer questions, and find collaborators, including discussions on sampling methods.
+- **LinkedIn Groups:** Several groups dedicated to statistics and data analysis where practitioners share insights, ask questions, and discuss trends in sampling and survey research.
+  
+----------------------------------------------------
+  
+  ## 1. Random Sampling:
+
+
+```python
+import random
+
+# Define the population
+population = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+# Specify the sample size
+sample_size = 4
+
+# Perform simple random sampling
+sample = random.sample(population, sample_size)
+
+print("Sample:", sample)
+```
+
+- `population` is a list that represents your entire population. You can replace it with your actual population data.
+- `sample_size` is the number of items you want in your sample.
+- `random.sample(population, sample_size)` is used to randomly select `sample_size` elements from the list `population`.
+
+```python
+import numpy as np
+
+# Define the population
+population = np.arange(1, 11) # Equivalent to a list from 1 to 10
+
+# Specify the sample size
+sample_size = 4
+
+# Perform simple random sampling
+sample = np.random.choice(population, size=sample_size, replace=False)
+
+print("Sample:", sample)
+```
+
+
+  In this `numpy` example, `np.arange(1, 11)` generates an array of numbers from 1 to 10 and `np.random.choice()` is used for sampling. The `replace=False` argument ensures that the sampling is done without replacement, meaning the same element won't be chosen more than once.
+  
+## 2. Stratified Random Sampling
+
+  ``` python
+  import pandas as pd
+import numpy as np
+
+def stratified_sampling(df, stratify_colname, n_samples):
+    """
+    Perform stratified random sampling on a DataFrame.
+
+    Parameters:
+    df (DataFrame): The DataFrame to sample from.
+    stratify_colname (str): The name of the column to stratify by.
+    n_samples (int): Total number of samples to return.
+
+    Returns:
+    DataFrame: A stratified sample DataFrame.
+    """
+
+    # Calculate the number of samples from each stratum
+    n = df[stratify_colname].value_counts(normalize=True) * n_samples
+    n = n.round().astype(int)
+
+    # Get samples from each stratum
+    stratified_sample = df.groupby(stratify_colname).apply(
+  		lambda x: x.sample(n=x.name in n and n[x.name] or 0)).reset_index(drop=True)
+
+    return stratified_sample
+
+# Example usage
+# Assuming you have a DataFrame 'df' and you want to stratify based on the column 'stratum_col'
+# and you want a total of 100 samples
+sample = stratified_sampling(df, 'stratum_col', 100)
+print(sample)
+
+  ```
+  
+## 3. Systematic Sampling  
+  
+  ```python
+  import numpy as np
+
+def systematic_sampling(data, sample_size):
+    """
+    Performs systematic sampling on a dataset.
+
+    :param data: A list or array of data points (population).
+    :param sample_size: The desired sample size.
+    :return: A list containing the systematically sampled data points.
+    """
+    population_size = len(data)
+    interval = population_size // sample_size
+    start_point = np.random.randint(0, interval)
+
+    # Select elements at regular intervals
+    return data[start_point:population_size:interval]
+
+# Example usage
+population = np.arange(1, 101)  # an example population from 1 to 100
+sample_size = 10
+sample = systematic_sampling(population, sample_size)
+print(sample)
+  
+  ```
+
+ ## 4. Cluster Sampling
+  
+  ```python
+  import pandas as pd
+import numpy as np
+
+# Step 1: Generate a sample dataset
+# Let's create a DataFrame with 1000 samples and 
+  #a 'Cluster_ID' column to indicate the cluster each sample belongs to.
+data = pd.DataFrame({
+    'Sample_ID': range(1, 1001),
+    'Measurement': np.random.randn(1000),
+    'Cluster_ID': np.random.choice(['Cluster_1', 'Cluster_2',
+  'Cluster_3', 'Cluster_4', 'Cluster_5'], 1000)
+})
+
+# Step 2: Divide data into clusters
+# This step is already achieved in our synthetic dataset with 'Cluster_ID'
+
+# Step 3: Randomly select a few clusters
+# Let's say we randomly pick 2 clusters
+selected_clusters = np.random.choice(data['Cluster_ID'].unique(), 2, replace=False)
+
+# Step 4: Sample from the selected clusters
+sampled_data = data[data['Cluster_ID'].isin(selected_clusters)]
+
+# Display the sampled data
+print(sampled_data)
+
+  
+  ```
+ 
+  ## 5. Probability Proportional to Size (PPS) Sampling
+  
+  ```python
+
+	import numpy as np
+import pandas as pd
+
+def pps_sampling(dataframe, size_column, sample_size):
+    """
+    Perform Probability Proportional to Size (PPS) sampling.
+
+    Parameters:
+    dataframe (pd.DataFrame): DataFrame containing the data.
+    size_column (str): The name of the column that indicates the size measure.
+    sample_size (int): The number of samples to draw.
+
+    Returns:
+    pd.DataFrame: A DataFrame containing the PPS sample.
+    """
+    # Calculate the total size
+    total_size = dataframe[size_column].sum()
+
+    # Calculate the probability for each row
+    dataframe['Sampling_Probability'] = dataframe[size_column] / total_size
+
+    # Perform sampling
+    pps_sample = dataframe.sample(n=sample_size, replace=True, weights='Sampling_Probability')
+
+    return pps_sample
+
+# Example usage
+data = {'ID': [1, 2, 3, 4, 5],
+        'Size': [10, 20, 30, 40, 50]}
+df = pd.DataFrame(data)
+
+sampled_df = pps_sampling(df, 'Size', 3)
+print(sampled_df)
+
+
+  ```
+  
+  ## 6. Convenience Sampling
+  
+  ```python
+  	import pandas as pd
+	import random
+
+# Example: Suppose we have a dataset 'data.csv' with a column 'data_column'
+df = pd.read_csv('data.csv')
+
+# Selecting a convenience sample - for instance, the first 100 rows
+convenience_sample = df.head(100)
+
+# Alternatively, you can randomly select 
+# 100 rows (this is a form of random sampling, not strictly convenience sampling)
+random_sample = df.sample(100)
+
+# Another example of convenience sampling 
+#  could be selecting rows based on a certain accessible criterion
+# For instance, selecting all rows where a certain column value meets a criterion
+criteria_sample = df[df['some_column'] == 'some_value'].head(100)
+
+# Note: In a real-world scenario, the criterion 
+#for convenience sampling depends on what is easily accessible or convenient for the researcher.
+
+  
+  ```
+  ## 7. Purposive Sampling
+  
+  ```python
+  
+  import pandas as pd
+
+# Example dataset
+data = {
+    'ID': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    'Age': [25, 30, 35, 40, 45,
+  50, 55, 60, 65, 70],
+    'Income': [30000, 40000, 50000, 60000,
+  70000, 80000, 90000, 100000, 110000, 120000]
+}
+
+df = pd.DataFrame(data)
+
+# Define your selection criteria
+# For example, select individuals who are between 40 and 60 years old
+selected_df = df[(df['Age'] >= 40) & (df['Age'] <=60)]
+
+print(selected_df)
+
+```
+
+
+  ## 8. Snowball Sampling
+  
+  ```python 
+                                                      
+    import pandas as pd
+
+    # Example dataset
+    data = {
+        'ID': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        'Age': [25, 30, 35, 40, 45, 50, 55, 60, 65, 70],
+        'Income': [30000, 40000, 50000, 60000, 70000, 80000, 90000, 100000, 110000, 120000]
+    }
+
+    df = pd.DataFrame(data)
+
+    # Define your selection criteria
+    # For example, select individuals who are between 40 and 60 years old
+    selected_df = df[(df['Age'] >= 40) & (df['Age'] <= 60)]
+
+    print(selected_df)
+
+```                                                    
+                                                      
+  ## 9. Quota Sampling                                                     
+
+  ```python 
+                                                          
+    import pandas as pd
+
+	def quota_sampling(dataframe, column, quotas):
+    """
+    Perform quota sampling on a DataFrame.
+
+    Parameters:
+    - dataframe (pd.DataFrame): The DataFrame to sample from.
+    - column (str): The column based on which to form quotas.
+    - quotas (dict): A dictionary with keys as 
+  	- unique values of the column and values as the number of samples to take from each quota.
+
+    Returns:
+    pd.DataFrame: A DataFrame containing the sampled data.
+    """
+
+    # Ensuring quotas sum up to less than or equal to the dataframe length
+    if sum(quotas.values()) > len(dataframe):
+        raise ValueError("Total of quotas exceeds the number of available data points")
+
+    # Sampling from each quota
+    sampled_dfs = []
+    for value, quota in quotas.items():
+        df_quota = dataframe[dataframe[column] == value]
+        sampled_dfs.append(df_quota.sample(n=min(quota, len(df_quota)), replace=False))
+
+    # Concatenating the sampled data from each quota
+    sampled_data = pd.concat(sampled_dfs, ignore_index=True)
+    return sampled_data
+
+# Example usage
+# Assuming you have a DataFrame 'df' and you want to sample based on a column 'category'
+# Let's say you want 10 samples from category A and 5 from category B
+
+quotas = {'A': 10, 'B': 5}
+sampled_df = quota_sampling(df, 'category', quotas)
+  
+```                                                     
+  
+  ## 10. Adaptive Sampling
+
+  ```python
+  
+  import numpy as np
+
+def adaptive_sampling(data, threshold):
+    """
+    Adaptive sampling based on the variance of the data.
+
+    Parameters:
+    data (list or np.array): The dataset to be sampled.
+    threshold (float): The variance threshold for adaptive sampling.
+
+    Returns:
+    list: A list of sampled data points.
+    """
+
+    sampled_data = []
+    window = []
+
+    for point in data:
+        window.append(point)
+        
+        if len(window) > 1:
+            variance = np.var(window)
+
+            if variance > threshold:
+                sampled_data.append(point)
+                window.clear()
+    
+    return sampled_data
+
+# Example usage
+data = np.random.randn(1000)  # Random data for demonstration
+threshold = 0.5  # Set a variance threshold
+sampled_data = adaptive_sampling(data, threshold)
+
+print("Original data size:", len(data))
+print("Sampled data size:", len(sampled_data))
+
+  ```
+ 
+  ## 11. Multistage Sampling
+  
+  ```python
+  import pandas as pd
+import numpy as np
+
+# Example dataset
+data = {'id': range(1, 101), 'cluster': np.random.choice(['CityA',
+  'CityB', 'CityC', 'CityD'], 100)}
+df = pd.DataFrame(data)
+
+# Step 1: Select a few clusters randomly
+selected_clusters = np.random.choice(df['cluster'].unique(), 2, replace=False)
+
+# Step 2: Sample from each selected cluster
+sampled_data = pd.DataFrame()
+for cluster in selected_clusters:
+    cluster_data = df[df['cluster'] == cluster]
+    sampled_data = sampled_data.append(cluster_data.sample(10))
+
+# Result
+print(sampled_data)
+
+  
+  ```
+  
+  
   ---------------
   
 <center><h1>👨‍💻 Full Free Complete Artificial Intelligence Career Roadmap 👨‍💻</h1></center>
